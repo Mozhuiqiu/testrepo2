@@ -1,4 +1,0 @@
-hello java
-hello git
-hello spring
-hello web
